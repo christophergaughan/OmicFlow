@@ -17,13 +17,13 @@ General-purpose models often hallucinate columns, misinterpret file structures, 
 
 ## Quantitative Comparison
 
-OmicFlow's capabilities have been benchmarked and summarized in included graphs:
+OmicFlow's capabilities have been benchmarked and summarized in the included graphs:
 
 - Parsing accuracy across different file types
 - Workflow time savings compared to manual and generic AI workflows
 - Robustness and output quality versus input complexity
 
-See `/graphs/methodology.md` for detailed descriptions and test case documentation.
+See `/graphs/methodology.md` for detailed descriptions and test case documentation (To be added on v 1.0 rollout).
 
 ## Example Prompts Where OmicFlow Excels
 
@@ -45,7 +45,7 @@ See `/graphs/methodology.md` for detailed descriptions and test case documentati
 
 ## Build Log and Timeline
 
-A detailed build timeline, elapsed time per segment, lessons learned, and version tagging are provided in `/project_logs/omicflow_build_log.md`. A Gantt-style project graphic is also included.
+A detailed build timeline, elapsed time per segment, lessons learned, and version tagging will be provided in `/project_logs/omicflow_build_log.md`. A Gantt-style project graphic will also be included.
 
 ## Hosting Options
 
@@ -53,7 +53,7 @@ OmicFlow can be used as a GPT in the ChatGPT store or deployed as a standalone w
 
 ## Statement of Authorship and Intended Use
 
-OmicFlow was conceptualized, designed, and authored by Christopher Gaughan, Ph.D. in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
+Christopher Gaughan, Ph. D., conceptualized, designed, and authored OmicFlow in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
 
 This tool is shared publicly to support the bioinformatics community, especially for researchers and students who lack access to advanced data preparation resources. It is intended for academic and research use and may be adapted with proper attribution. Commercial use or significant derivative works should explicitly credit the original author and source repository.
 
