@@ -1,6 +1,6 @@
-# OmicFlow Preview README
+# OmicFlow v1.0.0 Preview `README.md`
 
-**OmicFlow** is a domain-specific assistant designed to help biologists, researchers, and data scientists parse, transform, and analyze TCGA and other omics-related datasets – without requiring advanced coding skills.
+**OmicFlow** is a domain-specific assistant designed to help biologists, researchers, and data scientists parse, transform, and analyze TCGA and other omics-related datasets, without requiring advanced coding skills.
 
 Unlike general-purpose AI models, OmicFlow integrates domain knowledge, understands file structures, and automates bioinformatics data preparation tasks with rigor and reproducibility in mind.
 
