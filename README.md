@@ -1,4 +1,4 @@
-# OmicFlow
+# OmicFlow Preview README
 
 **OmicFlow** is a domain-specific assistant designed to help biologists, researchers, and data scientists parse, transform, and analyze TCGA and other omics-related datasets – without requiring advanced coding skills.
 
@@ -53,7 +53,7 @@ OmicFlow can be used as a GPT in the ChatGPT store or deployed as a standalone w
 
 ## Statement of Authorship and Intended Use
 
-OmicFlow was conceptualized, designed, and authored by [Your Name] in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
+OmicFlow was conceptualized, designed, and authored by Christopher Gaughan, Ph.D. in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
 
 This tool is shared publicly to support the bioinformatics community, especially for researchers and students who lack access to advanced data preparation resources. It is intended for academic and research use and may be adapted with proper attribution. Commercial use or significant derivative works should explicitly credit the original author and source repository.
 
