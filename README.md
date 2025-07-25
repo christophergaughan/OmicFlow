@@ -17,7 +17,7 @@ General-purpose models often hallucinate columns, misinterpret file structures, 
 
 ## Quantitative Comparison
 
-OmicFlow's capabilities have been benchmarked and summarized in included graphs:
+OmicFlow's capabilities have been benchmarked and summarized in the included graphs:
 
 - Parsing accuracy across different file types
 - Workflow time savings compared to manual and generic AI workflows
@@ -53,13 +53,16 @@ OmicFlow can be used as a GPT in the ChatGPT store or deployed as a standalone w
 
 ## Statement of Authorship and Intended Use
 
-OmicFlow was conceptualized, designed, and authored by Christopher Gaughan, Ph.D. in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
+OmicFlow was conceptualized, designed, and authored by Christopher Gaughan, Ph.D., in 2025. All design decisions, graphs, benchmarks, and workflow logic were independently created and documented in the build log and accompanying timeline graphics.
 
 This tool is shared publicly to support the bioinformatics community, especially for researchers and students who lack access to advanced data preparation resources. It is intended for academic and research use and may be adapted with proper attribution. Commercial use or significant derivative works should explicitly credit the original author and source repository.
 
 ## About
 
 OmicFlow was developed using OpenAI's GPT architecture, enhanced with domain-specific workflows for bioinformatics and clinical data. All results are evidence-based and supported by reproducible tests.
-All Notebooks produced herein were produced by Christopher Gaughan, Ph.D. These notebooks are meant to give you some guidance as to how you can deploy OmicFlow and are used as pedagogologic resources. If the can be of any assisitance, please feel free to build opon them.
+
+Christopher Gaughan, Ph. D., produced all Notebooks produced herein. These notebooks are meant to guide you on deploying OmicFlow and are used as pedagogical resources. If they can help you, please feel free to build upon them.
+
+Further, we employ some "sanity checks" on well-established, publicly available data sets. See the notebooks and data folder to check them out yourself to benchmark your data.
 
 Version: v1.0.0 – July 6, 2025
