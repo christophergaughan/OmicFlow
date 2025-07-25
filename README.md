@@ -66,3 +66,10 @@ Christopher Gaughan, Ph. D., produced all Notebooks produced herein. These noteb
 Further, we employ some "sanity checks" on well-established, publicly available data sets. See the notebooks and data folder to check them out yourself to benchmark your data.
 
 Version: v1.0.0 – July 6, 2025
+
+## License
+
+This project is licensed under the MIT License. You are welcome to use, modify, and distribute this software for academic and research purposes, given proper attribution to the original author. Explicit credit and adherence to the MIT License terms are required for commercial use or significant derivative works.
+
+See the full license text in the `LICENSE` file.
+
